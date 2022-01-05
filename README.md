@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @L1eva
 - 👀 I’m interested in sport
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript, nodejs
 - 📫 How to reach me rhischar@gmail.com
 
 <!---
